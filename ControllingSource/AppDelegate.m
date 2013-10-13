@@ -18,6 +18,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+     //should not be merged..
      //text pull commit 
     //modified by peter2....
     // Override point for customization after application launch.
